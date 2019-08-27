@@ -1,0 +1,135 @@
+
+/* Class = "UILabel"; text = "Select Language"; ObjectID = "0de-Sc-lrd"; */
+"0de-Sc-lrd.text" = "Select Language";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "1Fy-Jd-N0b"; */
+"1Fy-Jd-N0b.text" = "Email";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1n2-dH-hSm"; */
+"1n2-dH-hSm.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "What are you feeling?"; ObjectID = "2Jt-GD-OmM"; */
+"2Jt-GD-OmM.normalTitle" = "What are you feeling?";
+
+/* Class = "UIButton"; normalTitle = "WATCH APP EXPLAINER"; ObjectID = "2rl-48-QXN"; */
+"2rl-48-QXN.normalTitle" = "WATCH APP EXPLAINER";
+
+/* Class = "UINavigationItem"; title = "About Us"; ObjectID = "5A6-jW-jrj"; */
+"5A6-jW-jrj.title" = "About Us";
+
+/* Class = "UIButton"; normalTitle = "Chinese"; ObjectID = "8sr-Nt-YXl"; */
+"8sr-Nt-YXl.normalTitle" = "Chinese";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "BKj-IN-euH"; */
+"BKj-IN-euH.normalTitle" = "English";
+
+/* Class = "UILabel"; text = "Welcome To Global Menu Tokyo"; ObjectID = "Fgk-Iy-i6S"; */
+"Fgk-Iy-i6S.text" = "Welcome To Global Menu Tokyo";
+
+/* Class = "UILabel"; text = "Scan the QR code. Sed do eiusmod tempor incididunt et dolore."; ObjectID = "IWg-Js-yZz"; */
+"IWg-Js-yZz.text" = "Scan the QR code. Sed do eiusmod tempor incididunt et dolore.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jvt-3B-81T"; */
+"Jvt-3B-81T.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "LyD-Un-nGe"; */
+"LyD-Un-nGe.title" = "Settings";
+
+/* Class = "UILabel"; text = "Build 0.0"; ObjectID = "M17-Tc-r89"; */
+"M17-Tc-r89.text" = "Build 0.0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MGt-a0-IKm"; */
+"MGt-a0-IKm.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "VISIT WEBSITE"; ObjectID = "OkX-te-fqr"; */
+"OkX-te-fqr.normalTitle" = "VISIT WEBSITE";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "P5o-cU-l7Q"; */
+"P5o-cU-l7Q.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "QR Code"; ObjectID = "SJQ-oA-7lX"; */
+"SJQ-oA-7lX.normalTitle" = "QR Code";
+
+/* Class = "UILabel"; text = "info@globalmenutokyo.com"; ObjectID = "SSK-UC-nLd"; */
+"SSK-UC-nLd.text" = "info@globalmenutokyo.com";
+
+/* Class = "UIButton"; normalTitle = "Muslim/Halal"; ObjectID = "U5H-ZL-2Ar"; */
+"U5H-ZL-2Ar.normalTitle" = "Muslim/Halal";
+
+/* Class = "UISegmentedControl"; VFb-NB-1Ji.segmentTitles[0] = "Halal"; ObjectID = "VFb-NB-1Ji"; */
+"VFb-NB-1Ji.segmentTitles[0]" = "Halal";
+
+/* Class = "UISegmentedControl"; VFb-NB-1Ji.segmentTitles[1] = "Vegan"; ObjectID = "VFb-NB-1Ji"; */
+"VFb-NB-1Ji.segmentTitles[1]" = "Vegan";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "Vqj-Tt-ROg"; */
+"Vqj-Tt-ROg.text" = "Address";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YX7-hL-UkX"; */
+"YX7-hL-UkX.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "b9K-5G-wwy"; */
+"b9K-5G-wwy.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "What Are You Feeling"; ObjectID = "bJl-na-cNO"; */
+"bJl-na-cNO.title" = "What Are You Feeling";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bTN-lP-mpB"; */
+"bTN-lP-mpB.text" = "Label";
+
+/* Class = "UILabel"; text = "Tokyo Toshimaku Nishiikebukuro 3-29-3 Umemoto Building 4D co-ba Ikebukuro"; ObjectID = "d3g-ZJ-1Iv"; */
+"d3g-ZJ-1Iv.text" = "Tokyo Toshimaku Nishiikebukuro 3-29-3 Umemoto Building 4D co-ba Ikebukuro";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "d44-bc-K6q"; */
+"d44-bc-K6q.text" = "Label";
+
+/* Class = "UILabel"; text = "What's Your Preference?"; ObjectID = "dBP-TL-ym4"; */
+"dBP-TL-ym4.text" = "What's Your Preference?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "e0U-As-zUv"; */
+"e0U-As-zUv.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Contact Us"; ObjectID = "gHf-dz-kE7"; */
+"gHf-dz-kE7.title" = "Contact Us";
+
+/* Class = "UILabel"; text = "Treat yourself! Sometimes you need treat and you deserve a nice one. Check out our brand-new menu and book a table tonight."; ObjectID = "gmA-6X-M8k"; */
+"gmA-6X-M8k.text" = "Treat yourself! Sometimes you need treat and you deserve a nice one. Check out our brand-new menu and book a table tonight.";
+
+/* Class = "UINavigationItem"; title = "Deals"; ObjectID = "jea-33-jt5"; */
+"jea-33-jt5.title" = "Deals";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lLM-HO-cGI"; */
+"lLM-HO-cGI.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Japanese"; ObjectID = "lci-mP-eHr"; */
+"lci-mP-eHr.normalTitle" = "Japanese";
+
+/* Class = "UIButton"; normalTitle = "CHANGE LANGUAGE"; ObjectID = "lw6-7u-wGy"; */
+"lw6-7u-wGy.normalTitle" = "CHANGE LANGUAGE";
+
+/* Class = "UILabel"; text = "In Western countries, most mid- to high-range restaurants serve alcoholic beverages such as beer and wine. Some restaurants serve all the major meals, such as breakfast, lunch, and dinner (e.g., major fast food chains, diners, hotel restaurants, and airport restaurants)."; ObjectID = "mFf-hX-cA6"; */
+"mFf-hX-cA6.text" = "In Western countries, most mid- to high-range restaurants serve alcoholic beverages such as beer and wine. Some restaurants serve all the major meals, such as breakfast, lunch, and dinner (e.g., major fast food chains, diners, hotel restaurants, and airport restaurants).";
+
+/* Class = "UINavigationItem"; title = "Global Menu Tokyo"; ObjectID = "pS7-xa-19Y"; */
+"pS7-xa-19Y.title" = "Global Menu Tokyo";
+
+/* Class = "UIButton"; normalTitle = "Russian"; ObjectID = "qFg-tE-t2d"; */
+"qFg-tE-t2d.normalTitle" = "Russian";
+
+/* Class = "UIButton"; normalTitle = "Vegan"; ObjectID = "rVT-XR-Ib8"; */
+"rVT-XR-Ib8.normalTitle" = "Vegan";
+
+/* Class = "UIButton"; normalTitle = "Indonesian"; ObjectID = "sji-QZ-1pV"; */
+"sji-QZ-1pV.normalTitle" = "Indonesian";
+
+/* Class = "UIButton"; normalTitle = "Find Near By"; ObjectID = "tM5-fp-YML"; */
+"tM5-fp-YML.normalTitle" = "Find Near By";
+
+/* Class = "UINavigationItem"; title = "What's inside?"; ObjectID = "uS7-Qw-VXF"; */
+"uS7-Qw-VXF.title" = "What's inside?";
+
+/* Class = "UINavigationItem"; title = "Feelings"; ObjectID = "wfx-Pf-GQy"; */
+"wfx-Pf-GQy.title" = "Feelings";
+
+/* Class = "UILabel"; text = "Note: You can always change the language from the settings"; ObjectID = "whL-DX-Y3S"; */
+"whL-DX-Y3S.text" = "Note: You can always change the language from the settings";
